@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Everything MCP Server
 
 This MCP server attempts to exercise all the features of the MCP protocol. It is not intended to be a useful server, but rather a test server for builders of MCP clients. It implements prompts, tools, resources, sampling, and more to showcase MCP capabilities.
@@ -215,3 +216,7 @@ npx @modelcontextprotocol/server-everything sse
 npx @modelcontextprotocol/server-everything streamableHttp
 ```
 
+=======
+# server-everything
+server-everything
+>>>>>>> f4cfaa5d972804e5c725cd05005d7dec6b2009cd
